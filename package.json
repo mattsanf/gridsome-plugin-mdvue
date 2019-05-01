@@ -1,0 +1,29 @@
+{
+  "name": "gridsome-plugin-mdvue",
+  "version": "0.0.1",
+  "description": "mdvue plguin for Gridsome",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mattsanf/gridsome-plugin-mdvue.git"
+  },
+  "keywords": [
+    "Gridsome",
+    "mdvue",
+    "vue",
+    "markdown"
+  ],
+  "author": "Matthew Sanford",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattsanf/gridsome-plugin-mdvue/issues"
+  },
+  "homepage": "https://github.com/mattsanf/gridsome-plugin-mdvue#readme",
+  "dependencies": {
+    "mdvue": "^0.0.1",
+    "vue-loader": "^15.7.0"
+  }
+}
